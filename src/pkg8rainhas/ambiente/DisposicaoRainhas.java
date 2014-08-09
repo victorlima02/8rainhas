@@ -24,7 +24,7 @@
 
 package pkg8rainhas.ambiente;
 
-import ic.ce.populacional.seres.permutacoes.SerPermutacao;
+import ic.ce.seres.permutacoes.SerPermutacao;
 /**
  *
  * @author Victor de Lima Soares

@@ -24,7 +24,7 @@
 package pkg8rainhas.operadores;
 
 
-import ic.ce.populacional.seres.permutacoes.recombinadores.RecombinadorPermutacao;
+import ic.ce.seres.permutacoes.recombinadores.RecombinadorPermutacao;
 import java.util.List;
 import pkg8rainhas.ambiente.DisposicaoRainhas;
 

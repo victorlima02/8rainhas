@@ -23,7 +23,7 @@
  */
 package pkg8rainhas.ambiente;
 
-import ic.ce.populacional.Ambiente;
+import ic.ce.base.Ambiente;
 
 /**
  *

@@ -23,8 +23,8 @@
  */
 package pkg8rainhas.ambiente;
 
-import ic.ce.populacional.Caracteristica;
-import ic.ce.populacional.seres.permutacoes.LocusPermutacao;
+import ic.ce.base.Caracteristica;
+import ic.ce.seres.permutacoes.LocusPermutacao;
 
 
 

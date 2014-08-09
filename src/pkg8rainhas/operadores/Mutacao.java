@@ -23,7 +23,7 @@
  */
 package pkg8rainhas.operadores;
 
-import ic.ce.populacional.seres.permutacoes.muradores.MutadorPermutacao;
+import ic.ce.seres.permutacoes.muradores.MutadorPermutacao;
 import pkg8rainhas.ambiente.DisposicaoRainhas;
 
 

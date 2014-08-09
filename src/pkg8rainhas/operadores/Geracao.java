@@ -23,9 +23,9 @@
  */
 package pkg8rainhas.operadores;
 
-import ic.ce.populacional.seres.permutacoes.GeradorPermutacoes;
-import static ic.ce.populacional.seres.permutacoes.GeradorPermutacoes.getPermutacao;
-import ic.ce.populacional.seres.permutacoes.SerPermutacao;
+import ic.ce.seres.permutacoes.GeradorPermutacoes;
+import static ic.ce.seres.permutacoes.GeradorPermutacoes.getPermutacao;
+import ic.ce.seres.permutacoes.SerPermutacao;
 import java.util.List;
 import pkg8rainhas.ambiente.DisposicaoRainhas;
 
